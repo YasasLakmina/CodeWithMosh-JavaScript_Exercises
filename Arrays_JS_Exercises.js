@@ -1,3 +1,5 @@
+console.log("Yolo Badge");
+
 /*
 
 const numbers = [3,4];
