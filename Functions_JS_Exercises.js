@@ -1,3 +1,5 @@
+console.log("Yolo Badge");
+
 const person = {
     firstNname: 'Yasas',
     lastName: 'Lakmina',
